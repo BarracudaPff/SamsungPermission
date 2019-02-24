@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Samsung3</string>
+    <string name="take_photo_help">Take photo</string>
+    <string name="camera_not_found">Camera not found</string>
+    <string name="brght">brightness1</string>
+    <string name="notification">notififcation</string>
+</resources>
